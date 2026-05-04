@@ -16,8 +16,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
-<p align="center">
-      <h2>Lenguajes utilizados y en proceso de aprendizaje</h2>
+<p>
+      <h2  align="center">Lenguajes utilizados y en proceso de aprendizaje</h2>
 </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">

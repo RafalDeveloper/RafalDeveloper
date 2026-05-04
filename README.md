@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
-<p align="center">
+<div align="center">
       <h2>Lenguajes utilizados y en proceso de aprendizaje</h2>
 
 <img width="48" height="48" alt="HTML" src="https://github.com/user-attachments/assets/3355b873-ef7f-44d8-9aa8-6b4be47e42bf" />
@@ -26,7 +26,7 @@
 <img width="48" height="48" alt="Sql" src="https://github.com/user-attachments/assets/c3d68f50-77d0-4dfa-bc02-c9b72932276f" />
 <img width="48" height="48" alt="Php" src="https://github.com/user-attachments/assets/70efee38-c5cc-47ca-9df0-4490ae2a1b66" />
 <img width="48" height="48" alt="CSS" src="https://github.com/user-attachments/assets/5276c57d-8631-4561-a60a-ac90bb43997c"/>
-</p>
+</div>
 <br>
 
 

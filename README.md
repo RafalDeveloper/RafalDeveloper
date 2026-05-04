@@ -20,15 +20,15 @@
       <b>Lenguajes utilizados y en proceso de aprendizaje</b>
 </p>
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td><img width="40" src="https://github.com/user-attachments/assets/3355b873-ef7f-44d8-9aa8-6b4be47e42bf"/></td>
-<td><img width="40" src="https://github.com/user-attachments/assets/aaf7313a-2264-486e-9d84-246c9617a835"/></td>
-<td><img width="40" src="https://github.com/user-attachments/assets/3cccf293-065e-4031-ba95-d7b47fd49a92"/></td>
-<td><img width="40" src="https://github.com/user-attachments/assets/bea5b463-1e90-4103-9c4b-c576a32566cf"/></td>
-<td><img width="40" src="https://github.com/user-attachments/assets/c3d68f50-77d0-4dfa-bc02-c9b72932276f"/></td>
-<td><img width="40" src="https://github.com/user-attachments/assets/70efee38-c5cc-47ca-9df0-4490ae2a1b66"/></td>
-<td><img width="40" src="https://github.com/user-attachments/assets/5276c57d-8631-4561-a60a-ac90bb43997c"/></td>
+<td><img width="50" src="https://github.com/user-attachments/assets/3355b873-ef7f-44d8-9aa8-6b4be47e42bf"/></td>
+<td><img width="50" src="https://github.com/user-attachments/assets/aaf7313a-2264-486e-9d84-246c9617a835"/></td>
+<td><img width="50" src="https://github.com/user-attachments/assets/3cccf293-065e-4031-ba95-d7b47fd49a92"/></td>
+<td><img width="50" src="https://github.com/user-attachments/assets/bea5b463-1e90-4103-9c4b-c576a32566cf"/></td>
+<td><img width="50" src="https://github.com/user-attachments/assets/c3d68f50-77d0-4dfa-bc02-c9b72932276f"/></td>
+<td><img width="50" src="https://github.com/user-attachments/assets/70efee38-c5cc-47ca-9df0-4490ae2a1b66"/></td>
+<td><img width="50" src="https://github.com/user-attachments/assets/5276c57d-8631-4561-a60a-ac90bb43997c"/></td>
 </tr>
 </table>
 <br>

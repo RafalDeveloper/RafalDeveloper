@@ -16,9 +16,11 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
-<div align="center">
-      <h2>Lenguajes utilizados y en proceso de aprendizaje</h2>
+<p align="center">
+      <b>Lenguajes utilizados y en proceso de aprendizaje</b>
+</p>
 
+<p align="center">
 <img width="48" height="48" alt="HTML" src="https://github.com/user-attachments/assets/3355b873-ef7f-44d8-9aa8-6b4be47e42bf" />
 <img width="48" height="48" alt="JavaScript" src="https://github.com/user-attachments/assets/aaf7313a-2264-486e-9d84-246c9617a835" />
 <img width="48" height="48" alt="Phyton" src="https://github.com/user-attachments/assets/3cccf293-065e-4031-ba95-d7b47fd49a92" />
@@ -26,7 +28,7 @@
 <img width="48" height="48" alt="Sql" src="https://github.com/user-attachments/assets/c3d68f50-77d0-4dfa-bc02-c9b72932276f" />
 <img width="48" height="48" alt="Php" src="https://github.com/user-attachments/assets/70efee38-c5cc-47ca-9df0-4490ae2a1b66" />
 <img width="48" height="48" alt="CSS" src="https://github.com/user-attachments/assets/5276c57d-8631-4561-a60a-ac90bb43997c"/>
-</div>
+</p>
 <br>
 
 
